@@ -22,10 +22,6 @@ int main ()
     
     
     return69();
-//I just want to test if this will show up in GIT
-//test again
-//ok, this will be the 3rd test
-//again, test...
-
+//I think that the repo might be fixed
     return 0;
 }
