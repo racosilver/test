@@ -1,3 +1,4 @@
+//Today is Friday the 17th, 2018...
 #include <iostream>
 #include <string.h>
 
@@ -22,6 +23,5 @@ int main ()
     
     
     return69();
-//I think that the repo might be fixed
     return 0;
 }
